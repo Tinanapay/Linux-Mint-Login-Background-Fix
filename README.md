@@ -42,9 +42,9 @@ sudo nano /etc/lightdm/slick-greeter.conf
 and then find this, its usually the first one
 --------------------------------------------
 [Greeter]
-background=/usr/share/backgrounds/reli.png
+background=/usr/share/backgrounds/old_image.png
 --------------------------------------------
-
+change it to the new pic and 
 
 Save (CTRL + X, then Y, then ENTER`), and restart LightDM:
 --------------------------------------------
